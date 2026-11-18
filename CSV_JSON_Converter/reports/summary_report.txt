@@ -1,0 +1,14 @@
+==============================
+CONVERSION SUMMARY REPORT
+==============================
+
+Total Files Found: 3
+
+Successful Conversions: 2
+
+Failed Conversions: 1
+
+Conversion Type: JSON to CSV
+
+
+========== End ==========
